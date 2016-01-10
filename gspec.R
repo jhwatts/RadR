@@ -19,7 +19,7 @@ ui <- shinyUI(bootstrapPage(
     tags$div(
       class = "container",
       row(
-      col(2, tags$iframe(style="height:400px; width:50%",src="http://www4vip.inl.gov/gammaray/catalogs/nai/pdf/u-ore.pdf"))
+      col(2, tags$iframe(style="height:400px; width:100%",src="http://www4vip.inl.gov/gammaray/catalogs/nai/pdf/u-ore.pdf"))
       )
     )
   )
