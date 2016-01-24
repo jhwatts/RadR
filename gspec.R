@@ -1,5 +1,5 @@
 #INEL Gamma Spectroscopy data viewer
-
+# Opens a Viewer to look at gaama  spectroscopy data at Idaho National Engineering Laboratory
 library(shiny)
 
 row <- function(...) {
