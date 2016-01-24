@@ -1,5 +1,3 @@
-
-
 ########################NNDC
 #http://www.nndc.bnl.gov/chart/decaysearchdirect.jsp?nuc=239PU&unc=nds
 #Alejandro Sonzogni, NNDC, Brookhaven National Laboratory, sonzogni@bnl.gov
@@ -18,8 +16,6 @@
 #Radiation Physics Division
 #phone: 301-975-5552
 #pml-webmaster@nist.gov
-
-
 
 library(rvest)
 
